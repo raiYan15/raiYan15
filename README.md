@@ -1,13 +1,13 @@
-# 👨‍💻 Raiyan Aziz
+# 👨‍💻 <span style="color:#00FFFF">Raiyan Aziz</span>
 
-### 🚀 Passionate Developer | 🔧 Creative Problem Solver | 🧪 Exploring CSE Tools  
+### 🚀 <span style="color:#FF6F61">Passionate Developer</span> | 🔧 <span style="color:#FFD93B">Creative Problem Solver</span> | 🧪 <span style="color:#6BCB77">Exploring CSE Tools</span>  
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F3FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Universe!;Building+Smart+Code+One+Bit+at+a+Time.;Exploring+DevOps%2C+LangChain%2C+AI%2C+and+More..." alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔥 About Me
+## 🔥 <span style="color:#FF4500">About Me</span>
 - 💡 Always curious about the next big tool in tech  
 - 💻 Currently working on full-stack apps and AI projects  
 - 🌐 Learning cloud dev, Docker, LangChain, and ML APIs  
@@ -15,7 +15,7 @@
 
 ---
 
-### 🚀 Tech Stack & Tools
+## 🚀 <span style="color:#1E90FF">Tech Stack & Tools</span>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,linux,docker,vscode,postman&perline=8" />
@@ -23,7 +23,7 @@
 
 ---
 
-### 🎨 Design with Code
+## 🎨 <span style="color:#FF69B4">Design with Code</span>
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Coding Animation" />
@@ -32,7 +32,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 <span style="color:#32CD32">GitHub Analytics</span>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raiYan15&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
@@ -43,7 +43,7 @@
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 <span style="color:#8A2BE2">Connect With Me</span>
 
 <p align="center">
   <a href="mailto:your.email@example.com" target="_blank">
@@ -59,7 +59,7 @@
 
 ---
 
-### 🧠 2025 Goals
+## 🧠 <span style="color:#FF8C00">2025 Goals</span>
 
 - 💻 Launch a portfolio with animations and project showcases  
 - 🧠 Master DevOps, Firebase, and LangChain agents  
@@ -68,7 +68,6 @@
 
 ---
 
-### 🌟 Quote That Drives Me
+## 🌟 <span style="color:#00CED1">Quote That Drives Me</span>
 
 > **"Code with clarity, build with purpose, and never stop learning."**
-
