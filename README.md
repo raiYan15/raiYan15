@@ -13,6 +13,10 @@
 - 🌐 Learning cloud dev, Docker, LangChain, and ML APIs  
 - 📚 Believe in code, creativity, and community!
 
+<p align="center">
+  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="300" alt="Thinking Animation" />
+</p>
+
 ---
 
 ## 🚀 <span style="color:#1E90FF">Tech Stack & Tools</span>
