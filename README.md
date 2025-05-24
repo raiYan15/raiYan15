@@ -1,6 +1,6 @@
 # 👨‍💻 <span style="color:#00FFFF">Raiyan Aziz</span>
 
-### 🚀 <span style="color:#FF6F61">Passionate Developer</span> | 🔧 <span style="color:#FFD93B">Creative Problem Solver</span> | 🧪 <span style="color:#6BCB77">Exploring CSE Tools</span>  
+### 🚀 <span style="color:#FF6F61">Passionate Developer</span> | 🔧 <span style="color:#FFD93B">Creative Problem Solver</span> | 🧪 <span style="color:#6BCB77">Exploring AI Tools</span>  
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F3FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Universe!;Building+Smart+Code+One+Bit+at+a+Time.;Exploring+DevOps%2C+LangChain%2C+AI%2C+and+More..." alt="Typing SVG" />
 </p>
