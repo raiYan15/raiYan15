@@ -50,10 +50,10 @@
 ## 🌐 <span style="color:#8A2BE2">Connect With Me</span>
 
 <p align="center">
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:dashingraan175@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="35" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-url/" target="_blank">
+  <a href="[https://www.linkedin.com/in/your-linkedin-url/](https://www.linkedin.com/in/raiyan-aziz-8403b9311?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BokS8hof8T9Kf0s%2BT0TX%2B8Q%3D%3D)" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="35" alt="LinkedIn" />
   </a>
   <a href="https://github.com/raiYan15" target="_blank">
