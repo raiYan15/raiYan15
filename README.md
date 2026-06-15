@@ -158,16 +158,6 @@ Real-time cyberbullying detection with a trained ML classifier — role-based **
 
 ---
 
-## 🎖️ Holopin Badges
-
-<div align="center">
-
-[![An image of @raiyan15's Holopin badges](https://holopin.me/raiyan15)](https://holopin.io/@raiyan15)
-
-</div>
-
----
-
 ## 🤝 My GitHub Contributions
 
 <div align="center">
