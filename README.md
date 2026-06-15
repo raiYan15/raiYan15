@@ -81,7 +81,7 @@ Full-stack fintech platform connecting users with **50+ banks** — JWT auth, ro
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/VIEW%20REPO-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raiYan15)
+[![View Repo](https://img.shields.io/badge/VIEW%20REPO-7C3AED?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/raiYan15](https://github.com/raiYan15/Finance-Paisa))
 
 </td>
 <td width="50%" valign="top">
@@ -94,7 +94,7 @@ Quantum-inspired drug candidate search with **2D/3D molecular visualization** an
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/VIEW%20REPO-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raiYan15)
+[![View Repo](https://img.shields.io/badge/VIEW%20REPO-7C3AED?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/raiYan15](https://github.com/sanjana71006/QuantivaExplorer))
 
 </td>
 </tr>
@@ -109,7 +109,7 @@ ML-powered shopping platform with **semantic search**, personalized recommendati
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-[![View Repo](https://img.shields.io/badge/VIEW%20REPO-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raiYan15)
+[![View Repo](https://img.shields.io/badge/VIEW%20REPO-7C3AED?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/raiYan15](https://github.com/raiYan15/Shop-AI-))
 
 </td>
 <td width="50%" valign="top">
@@ -122,7 +122,7 @@ Real-time cyberbullying detection with a trained ML classifier — role-based **
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/VIEW%20REPO-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raiYan15)
+[![View Repo](https://img.shields.io/badge/VIEW%20REPO-7C3AED?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/raiYan15](https://github.com/raiYan15/Cybershild))
 
 </td>
 </tr>
