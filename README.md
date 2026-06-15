@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raiyan%20Aziz&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20Hackathon%20Winner&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Raiyan%20Aziz&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20Hackathon%20Winner&descAlignY=55&descSize=17" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+Full-Stack+%26+ML+Products+%F0%9F%9A%80;1st+%40+Srujana-2026+Hackathon+%F0%9F%8F%86;Published+Researcher+%40+JETIR+%F0%9F%93%9D;Open+to+Collaborate+%E2%80%94+Let%27s+Build+Something!)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,9 +14,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raiyan--aziz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raiyan-aziz)
 [![GitHub](https://img.shields.io/badge/GitHub-raiYan15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raiYan15)
-[![Gmail](https://img.shields.io/badge/Gmail-dashingraan175%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashingraan175@gmail.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef-raiyan-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/raiyan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-raiyan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/raiyan)
+[![Gmail](https://img.shields.io/badge/Gmail-dashingraan175-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashingraan175@gmail.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
 </div>
 
@@ -18,13 +24,13 @@
 
 ## 👋 About Me
 
-Hi, I'm **Raiyan Aziz** — a Computer Science undergraduate at **VFSTR, Guntur** with a passion for building products that solve real problems. I work across the full stack, from sleek React frontends to ML-powered backends, and I love shipping things that actually work.
+Hi, I'm **Raiyan Aziz** — a Computer Science undergraduate at **VFSTR, Guntur** building products that solve real problems. I work across the full stack and love shipping things that work.
 
-- 🏆 **Hackathon Winner** — 1st at Srujana-2026 (AP Technical Cell) & 2nd at Hack X Amrita 2.0
-- 📝 **Published Researcher** — JETIR Vol. 13, Issue 5 (May 2026): *Predicting Requirement Volatility in Agile using LSTM*
+- 🏆 **1st Place** — Srujana-2026 Hackathon *(AP Technical Cell)* | **2nd Place** — Hack X Amrita 2.0
+- 📝 **Published** — JETIR Vol. 13, Issue 5 (May 2026): *Predicting Requirement Volatility in Agile using LSTM*
 - 🎓 **B.Tech CSE** @ VFSTR — CGPA: 7.76
-- 🌱 Currently diving deep into **RAG pipelines**, **quantum-inspired algorithms**, and **cloud-native architecture**
-- 📍 Based in Ranchi, Jharkhand | Studying in Guntur, Andhra Pradesh
+- 🌱 Currently exploring **RAG pipelines**, **quantum-inspired algorithms**, and **cloud-native architecture**
+- 📍 Ranchi, Jharkhand | Studying in Guntur, Andhra Pradesh
 
 ---
 
@@ -34,16 +40,16 @@ Hi, I'm **Raiyan Aziz** — a Computer Science undergraduate at **VFSTR, Guntur*
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 ### Frontend & Backend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### AI / ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -52,57 +58,135 @@ Hi, I'm **Raiyan Aziz** — a Computer Science undergraduate at **VFSTR, Guntur*
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 
-### Databases & Tools
+### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Recent Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💰 Finance Paisa — Fintech Loan Aggregator
-Full-stack fintech platform connecting users with **50+ banks**. Features JWT auth, role-based access, an AI-powered eligibility engine, and automated email notifications.
+### 💰 Finance Paisa
 
-**Stack:** React 18 · Node.js · Express · MongoDB · JWT
+Full-stack fintech platform connecting users with **50+ banks** — JWT auth, role-based access, AI-powered eligibility engine, and automated email notifications.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/VIEW%20REPO-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raiYan15)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧬 Quantiva Explorer — Drug Discovery Platform
-Quantum-inspired probabilistic ranking for drug candidate search, with **2D/3D molecular visualization** and full auth system.
+### 🧬 Quantiva Explorer
 
-**Stack:** React + TypeScript · Node.js · MongoDB · JWT
+Quantum-inspired drug candidate search with **2D/3D molecular visualization** and probabilistic ranking engine.
+
+![React](https://img.shields.io/badge/React+TS-007ACC?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/VIEW%20REPO-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raiYan15)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ ShopMind AI — E-Commerce Recommendation Platform
+### 🛍️ ShopMind AI
+
 ML-powered shopping platform with **semantic search**, personalized recommendations, and AI-assisted product discovery using FAISS + LLM integrations.
 
-**Stack:** Python · FastAPI · MongoDB · React · FAISS
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+[![View Repo](https://img.shields.io/badge/VIEW%20REPO-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raiYan15)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Cyberbullying Detection Platform
-Real-time cyberbullying detection using a trained ML classifier, with **role-based admin/user dashboards** for content moderation.
+### 🛡️ Cyberbullying Detector
 
-**Stack:** Python · REST APIs · React · ML Classification
+Real-time cyberbullying detection with a trained ML classifier — role-based **admin/user dashboards** for content moderation.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/VIEW%20REPO-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raiYan15)
 
 </td>
 </tr>
 </table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raiYan15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiYan15&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=raiYan15&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Raiyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raiYan15&theme=tokyo-night&bg_color=0d1117&color=7C3AED&line=00D9FF&point=F7DF1E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎖️ Holopin Badges
+
+<div align="center">
+
+[![An image of @raiyan15's Holopin badges](https://holopin.me/raiyan15)](https://holopin.io/@raiyan15)
+
+</div>
+
+---
+
+## 🤝 My GitHub Contributions
+
+<div align="center">
+
+[![Raiyan's github contribution](https://github-contributor-stats.vercel.app/api?username=raiYan15&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)](https://github.com/raiYan15)
+
+</div>
+
+<div align="center">
+
+![Snake animation](https://github.com/raiYan15/raiYan15/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<div align="center">
+
+💛 **Open for collaborations — star, fork, follow, and I'll get back to you!**
+
+</div>
 
 ---
 
@@ -116,10 +200,11 @@ Real-time cyberbullying detection using a trained ML classifier, with **role-bas
 
 ## 🏆 Achievements
 
-| 🥇 | **1st Place** — Srujana-2026 Hackathon *(Technical Cell, Andhra Pradesh)* |
-|---|---|
-| 🥈 | **2nd Place** — Hack X Amrita 2.0 *(Amrita Vishwa Vidyapeetham, 2026)* |
-| 🥉 | **3rd Prize** — CIS' Soiree Scintilla *(RVR & JC College, 2025)* |
+| | Award | Event |
+|---|---|---|
+| 🥇 | **1st Place** | Srujana-2026 Hackathon *(Technical Cell, Andhra Pradesh)* |
+| 🥈 | **2nd Place** | Hack X Amrita 2.0 *(Amrita Vishwa Vidyapeetham, 2026)* |
+| 🥉 | **3rd Prize** | CIS' Soiree Scintilla *(RVR & JC College, 2025)* |
 
 ---
 
@@ -130,7 +215,7 @@ Real-time cyberbullying detection using a trained ML classifier, with **role-bas
 - 🤖 **IBM & Coursera** — Developing AI Applications with Python and Flask
 - 📊 **ML Certification** — Supervised & Unsupervised Learning
 - 🎓 **Meta** — Introduction to Back-End Development
-- 🗣️ **Cambridge** — Linguaskill Business (B2 Overall, C1 Reading & Listening)
+- 🗣️ **Cambridge** — Linguaskill Business (B2 Overall · C1 Reading & Listening)
 
 ---
 
@@ -138,25 +223,8 @@ Real-time cyberbullying detection using a trained ML classifier, with **role-bas
 
 - **Secretary** — Vignan Sports Contingent (2026)
 - **Deputy Secretary** — Student Activity Council (2025)
-- **Lead, Multimedia & Designing** — VIGNAN Mahotsav National Fest (2026) *(Volunteer → Coordinator → Lead)*
+- **Lead, Multimedia & Designing** — VIGNAN Mahotsav National Fest 2026 *(Volunteer → Coordinator → Lead)*
 - **Media Cell Video Editor** — Produced 20+ motivational videos for institutional outreach
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raiYan15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiYan15&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=raiYan15&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
@@ -168,8 +236,8 @@ Real-time cyberbullying detection using a trained ML classifier, with **role-bas
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+![Profile views](https://komarev.com/ghpvc/?username=raiYan15&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 
-*Open to collaborations, internships, and interesting problems. Let's build something!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
