@@ -147,13 +147,11 @@ Real-time cyberbullying detection with a trained ML classifier — role-based **
 
 ---
 
-## 📈 Contribution Graph
+## 📈 My GitHub Contribution Graph
 
-<div align="center">
-
-[![Raiyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raiYan15&theme=tokyo-night&bg_color=0d1117&color=7C3AED&line=00D9FF&point=F7DF1E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raiYan15&theme=tokyo-night&area=true&hide_border=true&custom_title=Raiyan%20Aziz's%20GitHub%20Activity" width="100%" />
+</p>
 
 ---
 
