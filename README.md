@@ -158,7 +158,7 @@ Real-time cyberbullying detection with a trained ML classifier — role-based **
 
 ---
 
-## 🤝 My GitHub Contributions
+## 🐍 My GitHub Contributions
 
 <div align="center">
 
