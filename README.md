@@ -1,77 +1,175 @@
-# 👨‍💻 <span style="color:#00FFFF">Raiyan Aziz</span>
+<div align="center">
 
-### 🚀 <span style="color:#FF6F61">Passionate Developer</span> | 🔧 <span style="color:#FFD93B">Creative Problem Solver</span> | 🧪 <span style="color:#6BCB77">Exploring AI Tools</span>  
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F3FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Universe!;Building+Smart+Code+One+Bit+at+a+Time.;Exploring+DevOps%2C+LangChain%2C+AI%2C+and+More..." alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raiyan%20Aziz&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20Hackathon%20Winner&descAlignY=55&descSize=16" width="100%"/>
 
----
+</div>
 
-## 🔥 <span style="color:#FF4500">About Me</span>
-- 💡 Always curious about the next big tool in tech  
-- 💻 Currently working on full-stack apps and AI projects  
-- 🌐 Learning cloud dev, Docker, LangChain, and ML APIs  
-- 📚 Believe in code, creativity, and community!
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="300" alt="Thinking Animation" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raiyan--aziz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raiyan-aziz)
+[![GitHub](https://img.shields.io/badge/GitHub-raiYan15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raiYan15)
+[![Gmail](https://img.shields.io/badge/Gmail-dashingraan175%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashingraan175@gmail.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-raiyan-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/raiyan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-raiyan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/raiyan)
+
+</div>
 
 ---
 
-## 🚀 <span style="color:#1E90FF">Tech Stack & Tools</span>
+## 👋 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,linux,docker,vscode,postman&perline=8" />
-</p>
+Hi, I'm **Raiyan Aziz** — a Computer Science undergraduate at **VFSTR, Guntur** with a passion for building products that solve real problems. I work across the full stack, from sleek React frontends to ML-powered backends, and I love shipping things that actually work.
 
----
-
-## 🎨 <span style="color:#FF69B4">Design with Code</span>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Coding Animation" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Code Design" />
-</p>
+- 🏆 **Hackathon Winner** — 1st at Srujana-2026 (AP Technical Cell) & 2nd at Hack X Amrita 2.0
+- 📝 **Published Researcher** — JETIR Vol. 13, Issue 5 (May 2026): *Predicting Requirement Volatility in Agile using LSTM*
+- 🎓 **B.Tech CSE** @ VFSTR — CGPA: 7.76
+- 🌱 Currently diving deep into **RAG pipelines**, **quantum-inspired algorithms**, and **cloud-native architecture**
+- 📍 Based in Ranchi, Jharkhand | Studying in Guntur, Andhra Pradesh
 
 ---
 
-## 📊 <span style="color:#32CD32">GitHub Analytics</span>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raiYan15&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiYan15&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiYan15&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
-</p>
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### AI / ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ---
 
-## 🌐 <span style="color:#8A2BE2">Connect With Me</span>
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="mailto:dashingraan175@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="35" alt="Gmail" />
-  </a>
-  <a href="[https://www.linkedin.com/in/your-linkedin-url/](https://www.linkedin.com/in/raiyan-aziz-8403b9311?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BokS8hof8T9Kf0s%2BT0TX%2B8Q%3D%3D)" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="35" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/raiYan15" target="_blank">
-    <img src="https://img.icons8.com/material-outlined/48/github.png" width="35" alt="GitHub" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 Finance Paisa — Fintech Loan Aggregator
+Full-stack fintech platform connecting users with **50+ banks**. Features JWT auth, role-based access, an AI-powered eligibility engine, and automated email notifications.
+
+**Stack:** React 18 · Node.js · Express · MongoDB · JWT
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 Quantiva Explorer — Drug Discovery Platform
+Quantum-inspired probabilistic ranking for drug candidate search, with **2D/3D molecular visualization** and full auth system.
+
+**Stack:** React + TypeScript · Node.js · MongoDB · JWT
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ ShopMind AI — E-Commerce Recommendation Platform
+ML-powered shopping platform with **semantic search**, personalized recommendations, and AI-assisted product discovery using FAISS + LLM integrations.
+
+**Stack:** Python · FastAPI · MongoDB · React · FAISS
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Cyberbullying Detection Platform
+Real-time cyberbullying detection using a trained ML classifier, with **role-based admin/user dashboards** for content moderation.
+
+**Stack:** Python · REST APIs · React · ML Classification
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 <span style="color:#FF8C00">2025 Goals</span>
+## 📄 Publication
 
-- 💻 Launch a portfolio with animations and project showcases  
-- 🧠 Master DevOps, Firebase, and LangChain agents  
-- 🛠️ Collaborate in high-impact open-source projects  
-- 🎯 Reach 500+ commits and top 5% on GitHub contributions  
+> **Predicting Requirement Volatility in Agile Model using LSTM**
+> *Journal of Emerging Technologies and Innovative Research (JETIR) · Vol. 13, Issue 5 · May 2026*
+> [📖 Read the Paper](https://www.jetir.org)
 
 ---
 
-## 🌟 <span style="color:#00CED1">Quote That Drives Me</span>
+## 🏆 Achievements
 
-> **"Code with clarity, build with purpose, and never stop learning."**
+| 🥇 | **1st Place** — Srujana-2026 Hackathon *(Technical Cell, Andhra Pradesh)* |
+|---|---|
+| 🥈 | **2nd Place** — Hack X Amrita 2.0 *(Amrita Vishwa Vidyapeetham, 2026)* |
+| 🥉 | **3rd Prize** — CIS' Soiree Scintilla *(RVR & JC College, 2025)* |
+
+---
+
+## 📜 Certifications
+
+- ☁️ **AWS** — Cloud Practitioner Essentials
+- ☁️ **Google Cloud** — Google Cloud AI Certification
+- 🤖 **IBM & Coursera** — Developing AI Applications with Python and Flask
+- 📊 **ML Certification** — Supervised & Unsupervised Learning
+- 🎓 **Meta** — Introduction to Back-End Development
+- 🗣️ **Cambridge** — Linguaskill Business (B2 Overall, C1 Reading & Listening)
+
+---
+
+## 👔 Leadership
+
+- **Secretary** — Vignan Sports Contingent (2026)
+- **Deputy Secretary** — Student Activity Council (2025)
+- **Lead, Multimedia & Designing** — VIGNAN Mahotsav National Fest (2026) *(Volunteer → Coordinator → Lead)*
+- **Media Cell Video Editor** — Produced 20+ motivational videos for institutional outreach
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raiYan15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiYan15&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=raiYan15&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🌐 Languages
+
+🇬🇧 English *(Fluent)* &nbsp;|&nbsp; 🇮🇳 Hindi *(Native)* &nbsp;|&nbsp; 🇫🇷 French *(Beginner – A1)*
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+*Open to collaborations, internships, and interesting problems. Let's build something!*
+
+</div>
