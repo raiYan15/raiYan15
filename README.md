@@ -28,7 +28,6 @@ Hi, I'm **Raiyan Aziz** — a Computer Science undergraduate at **VFSTR, Guntur*
 
 - 🏆 **1st Place** — Srujana-2026 Hackathon *(AP Technical Cell)* | **2nd Place** — Hack X Amrita 2.0
 - 📝 **Published** — JETIR Vol. 13, Issue 5 (May 2026): *Predicting Requirement Volatility in Agile using LSTM*
-- 🎓 **B.Tech CSE** @ VFSTR — CGPA: 7.76
 - 🌱 Currently exploring **RAG pipelines**, **quantum-inspired algorithms**, and **cloud-native architecture**
 - 📍 Ranchi, Jharkhand | Studying in Guntur, Andhra Pradesh
 
