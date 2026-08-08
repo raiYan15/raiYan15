@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raiyan--aziz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raiyan-aziz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raiyan--aziz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/raiyan-aziz](https://www.linkedin.com/in/raiyan-aziz-8403b9311/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BR042Ad2%2FTAGSgZhaQazi7w%3D%3D))
 [![GitHub](https://img.shields.io/badge/GitHub-raiYan15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raiYan15)
 [![Gmail](https://img.shields.io/badge/Gmail-dashingraan175-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashingraan175@gmail.com)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
