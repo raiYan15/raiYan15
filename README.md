@@ -12,11 +12,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raiyan-aziz-8403b9311?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/raiyan-aziz-8403b9311/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raiyan--aziz--8403b9311-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiyan-aziz-8403b9311/)
 [![GitHub](https://img.shields.io/badge/GitHub-raiYan15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raiYan15)
 [![Gmail](https://img.shields.io/badge/Gmail-dashingraan175-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dashingraan175@gmail.com)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/YOUR_USERNAME/)
 
 </div>
 
