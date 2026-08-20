@@ -226,14 +226,7 @@
 </p>
 
 ---
-
-## 🐍 My GitHub Contributions
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raiYan15&theme=tokyo-night&hide_border=true"/>
-
-</div>
+## 🐍 My GitHub Snake
 
 <div align="center">
 
