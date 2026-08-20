@@ -211,11 +211,11 @@
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=raiYan15&theme=transparent&hide_border=true&card_width=600&card_height=200" alt="GitHub Streak" /></a>
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
+
 
 ---
 
