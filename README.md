@@ -231,14 +231,13 @@
 
 <div align="center">
 
-
-[![Raiyan's github contribution](https://github-contributor-stats.vercel.app/api?username=raiYan15&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)](https://github.com/raiYan15)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raiYan15&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-![Snake animation](https://github.com/raiYan15/raiYan15/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github.com/raiYan15/raiYan15/blob/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -249,7 +248,6 @@
 </div>
 
 ---
-
 ## 🔨 Currently Building
 
 | Project | Description | Status |
