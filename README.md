@@ -211,18 +211,19 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raiYan15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiYan15&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raiYan15&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiYan15&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=raiYan15&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+<p align="center">
 
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=raiYan15&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</p>
 
 ---
 
