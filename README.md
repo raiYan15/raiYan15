@@ -16,7 +16,7 @@
   <!-- Fallback image (used if neither applies) -->
   <img src="https://github.com/abhishek-maurya576/abhishek-maurya576/blob/main/gif4%281%29.gif" 
        width="400px" 
-       alt="Abhishek Maurya - Python & AI Developer" 
+       alt="Abhishek Maurya - Python & AI Developers" 
        />
 </picture>
 
